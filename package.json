@@ -11,9 +11,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.2.2"
+    "lite-server": "^2.3.0"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armyoftanks/ConFusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/armyoftanks/ConFusion/issues"
+  },
+  "homepage": "https://github.com/armyoftanks/ConFusion#readme"
 }
